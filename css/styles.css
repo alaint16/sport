@@ -1,0 +1,41 @@
+header {
+	background-color:#232323 !important;
+	}
+
+.navbar {
+	height: 70px !important;
+	border:none !important;
+	background-color:#232323 !important;
+	}
+
+.navbar-default {
+	border:none !important;
+	width:950px !important;
+	margin: 0 auto !important;
+	}
+
+.navbar-brand {
+	padding: 0px 15px !important;
+	height: 70px !important;
+	}
+
+.top-banner {
+ background: url("../images/muscle-building.jpg") no-repeat center;
+ height: 500px;
+ width:100%;
+ background-size: cover;
+ background-position:top;
+ }
+ 
+
+ .banner h1 {
+	 margin: 0px;
+	 font-family:"arial";
+	 font-weight:bold;
+	 font-size:70px;
+	 color:#ffffff;
+	 padding:100px 150px;
+	  text-align:center;
+	  text-shadow:2px 2px #000000;
+	 }
+	 
