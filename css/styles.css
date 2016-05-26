@@ -38,4 +38,18 @@ header {
 	  text-align:center;
 	  text-shadow:2px 2px #000000;
 	 }
-	 
+
+.pad {
+	padding: 30px 0px 20px 0px;
+	}
+	
+.features3 {
+	text-align:center;
+	padding:20px;
+	border-bottom: solid thin #cccccc;
+	}	
+	
+hr {
+	height:1px;
+	color:#000000;
+	}	
